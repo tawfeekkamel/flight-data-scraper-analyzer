@@ -1,6 +1,7 @@
 streamlit
 pandas
 selenium
+seleniumbase
 webdriver_manager
 pymongo
 matplotlib
